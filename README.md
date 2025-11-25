@@ -1,12 +1,5 @@
 <h1 align="center">👋 Hi, I'm Oumaima Benhallouk</h1>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oumaima-benha/fireworks-animation/main/dist/fireworks.svg" />
-</p>
-
----
-
 <p align="center">
 AI Engineer • Machine Learning Engineer • Computer Engineer  
 </p>
@@ -15,6 +8,9 @@ AI Engineer • Machine Learning Engineer • Computer Engineer
 🚀 Passionate about building intelligent systems, real-time AI pipelines, and solving impactful problems using Machine Learning, Deep Learning & Computer Vision.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oumaima-benha/fireworks-animation/main/dist/fireworks.svg" />
+</p>
 
 
 ## 🌟 About Me
