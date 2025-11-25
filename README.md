@@ -10,7 +10,7 @@ AI Engineer • Machine Learning Engineer • Computer Engineer
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oumaima-benha/fireworks-animation/output/fireworks.svg" />
+  <img src="https://raw.githubusercontent.com/oumaima-benha/fireworks-animation/main/dist/fireworks.svg" />
 </p>
 ---
 
